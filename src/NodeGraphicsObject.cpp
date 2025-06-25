@@ -14,7 +14,7 @@
 #include "ConnectionIdUtils.hpp"
 #include "NodeConnectionInteraction.hpp"
 #include "StyleCollection.hpp"
-#include "UndoCommands.hpp"
+#include "QtNodes/UndoCommands.hpp"
 
 namespace QtNodes {
 

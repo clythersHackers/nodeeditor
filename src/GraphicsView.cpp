@@ -4,7 +4,7 @@
 #include "ConnectionGraphicsObject.hpp"
 #include "NodeGraphicsObject.hpp"
 #include "StyleCollection.hpp"
-#include "UndoCommands.hpp"
+#include "QtNodes/UndoCommands.hpp"
 
 #include <QtWidgets/QGraphicsScene>
 
