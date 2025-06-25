@@ -5,7 +5,7 @@
 #include "ConnectionGraphicsObject.hpp"
 #include "ConnectionIdUtils.hpp"
 #include "NodeGraphicsObject.hpp"
-#include "QtNodes/UndoCommands.hpp"
+#include "UndoCommands.hpp"
 
 #include <QtCore/QDebug>
 

@@ -133,7 +133,7 @@ set(HPP_HEADER_FILES
   include/QtNodes/internal/DefaultNodePainter.hpp
   include/QtNodes/internal/DefaultVerticalNodeGeometry.hpp
   include/QtNodes/internal/NodeConnectionInteraction.hpp
-  include/QtNodes/UndoCommands.hpp
+  include/QtNodes/internal/UndoCommands.hpp
 )
 
 # If we want to give the option to build a static library,

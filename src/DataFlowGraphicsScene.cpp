@@ -4,7 +4,7 @@
 #include "GraphicsView.hpp"
 #include "NodeDelegateModelRegistry.hpp"
 #include "NodeGraphicsObject.hpp"
-#include "QtNodes/UndoCommands.hpp"
+#include "UndoCommands.hpp"
 
 #include <QtWidgets/QFileDialog>
 #include <QtWidgets/QGraphicsSceneMoveEvent>

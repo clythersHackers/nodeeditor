@@ -1,4 +1,4 @@
-#include "QtNodes/UndoCommands.hpp"
+#include "UndoCommands.hpp"
 
 #include "BasicGraphicsScene.hpp"
 #include "ConnectionGraphicsObject.hpp"
